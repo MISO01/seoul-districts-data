@@ -1,0 +1,468 @@
+EMD_CD,EMD_ENG_NM,EMD_KOR_NM
+11110101,Cheongun-dong,청운동
+11110102,Singyo-dong,신교동
+11110103,Gungjeong-dong,궁정동
+11110104,Hyoja-dong,효자동
+11110105,Changseong-dong,창성동
+11110106,Tongui-dong,통의동
+11110107,Jeokseon-dong,적선동
+11110108,Tongin-dong,통인동
+11110109,Nusang-dong,누상동
+11110110,Nuha-dong,누하동
+11110111,Ogin-dong,옥인동
+11110112,Chebu-dong,체부동
+11110113,Pirun-dong,필운동
+11110114,Naeja-dong,내자동
+11110115,Sajik-dong,사직동
+11110116,Doryeom-dong,도렴동
+11110117,Dangju-dong,당주동
+11110118,Naesu-dong,내수동
+11110119,Sejongno,세종로
+11110120,Sinmunno 1(il)-ga,신문로1가
+11110121,Sinmunno 2(i)-ga,신문로2가
+11110122,Cheongjin-dong,청진동
+11110123,Seorin-dong,서린동
+11110124,Susong-dong,수송동
+11110125,Junghak-dong,중학동
+11110126,Jongno 1(il)-ga,종로1가
+11110127,Gongpyeong-dong,공평동
+11110128,Gwanhun-dong,관훈동
+11110129,Gyeonji-dong,견지동
+11110130,Waryong-dong,와룡동
+11110131,Gwonnong-dong,권농동
+11110132,Unni-dong,운니동
+11110133,Ikseon-dong,익선동
+11110134,Gyeongun-dong,경운동
+11110135,Gwancheol-dong,관철동
+11110136,Insa-dong,인사동
+11110137,Nagwon-dong,낙원동
+11110138,Jongno 2(i)-ga,종로2가
+11110139,Palpan-dong,팔판동
+11110140,Samcheong-dong,삼청동
+11110141,Anguk-dong,안국동
+11110142,Sogyeok-dong,소격동
+11110143,Hwa-dong,화동
+11110144,Sagan-dong,사간동
+11110145,Songhyeon-dong,송현동
+11110146,Gahoe-dong,가회동
+11110147,Jae-dong,재동
+11110148,Gye-dong,계동
+11110149,Wonseo-dong,원서동
+11110150,Hunjeong-dong,훈정동
+11110151,Myo-dong,묘동
+11110152,Bongik-dong,봉익동
+11110153,Donui-dong,돈의동
+11110154,Jangsa-dong,장사동
+11110155,Gwansu-dong,관수동
+11110156,Jongno 3(sam)-ga,종로3가
+11110157,Inui-dong,인의동
+11110158,Yeji -dong,예지동
+11110159,Wonnam-dong,원남동
+11110160,Yeonji-dong,연지동
+11110161,Jongno 4(sa)-ga,종로4가
+11110162,Hyoje-dong,효제동
+11110163,Jongno 5(o)-ga,종로5가
+11110164,Jongno 6(yuk)-ga,종로6가
+11110165,Ihwa-dong,이화동
+11110166,Yeongeon-dong,연건동
+11110167,Chungsin-dong,충신동
+11110168,Dongsung-dong,동숭동
+11110169,Hyehwa-dong,혜화동
+11110170,Myeongnyun 1(il)-ga,명륜1가
+11110171,Myeongnyun 2(i)-ga,명륜2가
+11110172,Myeongnyun 4(sa)-ga,명륜4가
+11110173,Myeongnyun 3(sam)-ga,명륜3가
+11110174,Changsin-dong,창신동
+11110175,Sungin-dong,숭인동
+11110176,Gyonam-dong,교남동
+11110177,Pyeong-dong,평동
+11110178,Songwol-dong,송월동
+11110179,Hongpa-dong,홍파동
+11110180,Gyobuk-dong,교북동
+11110181,Haengchon-dong,행촌동
+11110182,Gugi-dong,구기동
+11110183,Pyeongchang-dong,평창동
+11110184,Buam-dong,부암동
+11110185,Hongji-dong,홍지동
+11110186,Sinyeong-dong,신영동
+11110187,Muak-dong,무악동
+11140101,Mugyo-dong,무교동
+11140102,Da-dong,다동
+11140103,Taepyeongno 1(il)-ga,태평로1가
+11140104,Euljiro 1(il)-ga,을지로1가
+11140105,Euljiro 2(i)-ga,을지로2가
+11140106,Namdaemunno 1(il)-ga,남대문로1가
+11140107,Samgak-dong,삼각동
+11140108,Suha-dong,수하동
+11140109,Janggyo-dong,장교동
+11140110,Supyo-dong,수표동
+11140111,Sogong-dong,소공동
+11140112,Namchang-dong,남창동
+11140113,Bukchang-dong,북창동
+11140114,Taepyeongno 2(i)-ga,태평로2가
+11140115,Namdaemunno 2(i)-ga,남대문로2가
+11140116,Namdaemunno 3(sam)-ga,남대문로3가
+11140117,Namdaemunno 4(sa)-ga,남대문로4가
+11140118,Namdaemunno 5(o)-ga,남대문로5가
+11140119,Bongnae-dong 1(il)-ga,봉래동1가
+11140120,Bongnae-dong 2(i)-ga,봉래동2가
+11140121,Hoehyeon-dong 1(il)-ga,회현동1가
+11140122,Hoehyeon-dong 2(i)-ga,회현동2가
+11140123,Hoehyeon-dong 3(sam)-ga,회현동3가
+11140124,Chungmuro 1(il)-ga,충무로1가
+11140125,Chungmuro 2(i)-ga,충무로2가
+11140126,Myeong-dong 1(il)-ga,명동1가
+11140127,Myeong-dong 2(i)-ga,명동2가
+11140128,Namsan-dong 1(il)-ga,남산동1가
+11140129,Namsan-dong 2(i)-ga,남산동2가
+11140130,Namsan-dong 3(sam)-ga,남산동3가
+11140131,Jeo-dong 1(il)-ga,저동1가
+11140132,Chungmuro 4(sa)-ga,충무로4가
+11140133,Chungmuro 5(o)-ga,충무로5가
+11140134,Inhyeon-dong 2(i)-ga,인현동2가
+11140135,Yegwan-dong,예관동
+11140136,Mukjeong-dong,묵정동
+11140137,Pil-dong 1(il)-ga,필동1가
+11140138,Pildong 2(i)-ga,필동2가
+11140139,Pil-dong 3(sam)-ga,필동3가
+11140140,Namhak-dong,남학동
+11140141,Juja-dong,주자동
+11140142,Yejang-dong,예장동
+11140143,Jangchung-dong 1(il)-ga,장충동1가
+11140144,Jangchung-dong 2(i)-ga,장충동2가
+11140145,Gwanghui-dong 1(il)-ga,광희동1가
+11140146,Gwanghui-dong 2(i)-ga,광희동2가
+11140147,Ssangnim-dong,쌍림동
+11140148,Euljiro 6(yuk)-ga,을지로6가
+11140149,Euljiro 7(chil)-ga,을지로7가
+11140150,Euljiro 4(sa)-ga,을지로4가
+11140151,Euljiro 5(o)-ga,을지로5가
+11140152,Jugyo-dong,주교동
+11140153,Bangsan-dong,방산동
+11140154,Ojang-dong,오장동
+11140155,Euljiro 3(sam)-ga,을지로3가
+11140156,Ipjeong-dong,입정동
+11140157,Sallim-dong,산림동
+11140158,Chungmuro 3(sam)-ga,충무로3가
+11140159,Cho-dong,초동
+11140160,Inhyeon-dong 1(il)-ga,인현동1가
+11140161,Jeo-dong 2(i)-ga,저동2가
+11140162,Sindang-dong,신당동
+11140163,Heungin-dong,흥인동
+11140164,Muhak-dong,무학동
+11140165,Hwanghak-dong,황학동
+11140166,Seosomun-dong,서소문동
+11140167,Jeong-dong,정동
+11140168,Sunhwa-dong,순화동
+11140169,Uijuro 1(il)-ga,의주로1가
+11140170,Chungjeongno 1(il)-ga,충정로1가
+11140171,Jungnim-dong,중림동
+11140172,Uijuro 2(i)-ga,의주로2가
+11140173,Malli-dong 1(il)-ga,만리동1가
+11140174,Malli-dong 2(i)-ga,만리동2가
+11170101,Huam-dong,후암동
+11170102,yongsan-dong  2(i)-ga,용산동2가
+11170103,Yongsan-dong 4(sa)-ga,용산동4가
+11170104,Garwol-dong,갈월동
+11170105,Namyeong-dong,남영동
+11170106,Yongsan-dong 1(il)-ga,용산동1가
+11170107,Dongja-dong,동자동
+11170108,Seogye-dong,서계동
+11170109,Cheongpa-dong 1(il)-ga,청파동1가
+11170110,Cheongpa-dong 2(i)-ga,청파동2가
+11170111,Cheongpa-dong 3(sam)-ga,청파동3가
+11170112,Wonhyoro 1(iI)-ga,원효로1가
+11170113,Wonhyoro 2(i)-ga,원효로2가
+11170114,Sinchang-dong,신창동
+11170115,Sancheon-dong,산천동
+11170116,Cheongam-dong,청암동
+11170117,Wonhyoro 3(sam)-ga,원효로3가
+11170118,Wonhyoro 4(sa)-ga,원효로4가
+11170119,Hyochang-dong,효창동
+11170120,Dowon-dong,도원동
+11170121,Yongmun-dong,용문동
+11170122,Munbae-dong,문배동
+11170123,Singye-dong,신계동
+11170124,Hangangno 1(il)-ga,한강로1가
+11170125,Hangangno 2(i)-ga,한강로2가
+11170126,Yongsan-dong 3(sam)-ga,용산동3가
+11170127,Yongsan-dong 5(o)-ga,용산동5가
+11170128,Hangangno 3(sam)-ga,한강로3가
+11170129,Ichon-dong,이촌동
+11170130,Itaewon-dong,이태원동
+11170131,Hannam-dong,한남동
+11170132,Dongbinggo-dong,동빙고동
+11170133,Seobinggo-dong,서빙고동
+11170134,Juseong-dong,주성동
+11170135,Yongsan-dong 6(yuk)-ga,용산동6가
+11170136,Bogwang-dong,보광동
+11200101,Sangwangsimni-dong,상왕십리동
+11200102,Hawangsimni-dong,하왕십리동
+11200103,Hongik-dong,홍익동
+11200104,Doseon-dong,도선동
+11200105,Majang-dong,마장동
+11200106,Sageun-dong,사근동
+11200107,Haengdang-dong,행당동
+11200108,Eungbong-dong,응봉동
+11200109,Geumho-dong1(il)-ga,금호동1가
+11200110,Geumho-dong2(i)-ga,금호동2가
+11200111,Geumho-dong3(sam)-ga,금호동3가
+11200112,Geumho-dong4(sa)-ga,금호동4가
+11200113,Oksu-dong,옥수동
+11200114,Seongsu-dong1(il)-ga,성수동1가
+11200115,Seongsu-dong2(i)-ga,성수동2가
+11200118,Songjeong-dong,송정동
+11200122,Yongdap-dong,용답동
+11215101,Junggok-dong,중곡동
+11215102,Neung-dong,능동
+11215103,Guui-dong,구의동
+11215104,Gwangjang-dong,광장동
+11215105,Jayang-dong,자양동
+11215107,Hwayang-dong,화양동
+11215109,Gunja-dong,군자동
+11230101,Sinseol-dong,신설동
+11230102,Yongdu-dong,용두동
+11230103,Jegi-dong,제기동
+11230104,Jeonnong-dong,전농동
+11230105,Dapsipni-dong,답십리동
+11230106,Jangan-dong,장안동
+11230107,Cheongnyangni-dong,청량리동
+11230108,Hoegi-dong,회기동
+11230109,Hwigyeong-dong,휘경동
+11230110,Imun-dong,이문동
+11260101,Myeonmok-dong,면목동
+11260102,Sangbong-dong,상봉동
+11260103,Junghwa-dong,중화동
+11260104,Muk-dong,묵동
+11260105,Mangu-dong,망우동
+11260106,Sinnae-dong,신내동
+11290101,Seongbuk-dong,성북동
+11290102,Seongbuk-dong 1(il)-ga,성북동1가
+11290103,Donam-dong,돈암동
+11290104,Dongsomun-dong 1(il)-ga,동소문동1가
+11290105,Dongsomun-dong 2(i)-ga,동소문동2가
+11290106,Dongsomun-dong 3(sam)-ga,동소문동3가
+11290107,Dongsomun-dong 4(sa)-ga,동소문동4가
+11290108,Dongsomun-dong 5(o)-ga,동소문동5가
+11290109,Dongsomun-dong 6(yuk)-ga,동소문동6가
+11290110,Dongsomun-dong 7(chil)-ga,동소문동7가
+11290111,Samseon-dong 1(il)-ga,삼선동1가
+11290112,Samseon-dong 2(i)-ga,삼선동2가
+11290113,Samseon-dong 3(sam)-ga,삼선동3가
+11290114,Samseon-dong 4(sa)-ga,삼선동4가
+11290115,Samseon-dong 5(o)-ga,삼선동5가
+11290116,Dongseon-dong 1(il)-ga,동선동1가
+11290117,Dongseon-dong 2(i)-ga,동선동2가
+11290118,Dongseon-dong 3(sam)-ga,동선동3가
+11290119,Dongseon-dong 4(sa)-ga,동선동4가
+11290120,Dongseon-dong 5(o)-ga,동선동5가
+11290121,Anam-dong 1(il)-ga,안암동1가
+11290122,Anam-dong 2(i)-ga,안암동2가
+11290123,Anam-dong 3(sam)-ga,안암동3가
+11290124,Anam-dong 4(sa)-ga,안암동4가
+11290125,Anam-dong 5(o)-ga,안암동5가
+11290126,Bomun-dong 4(sa)-ga,보문동4가
+11290127,Bomun-dong 5(o)-ga,보문동5가
+11290128,Bomun-dong 6(yuk)-ga,보문동6가
+11290129,Bomun-dong 7(chil)-ga,보문동7가
+11290130,Bomun-dong 1(il)-ga,보문동1가
+11290131,Bomun-dong 2(i)-ga,보문동2가
+11290132,Bomun-dong 3(sam)-ga,보문동3가
+11290133,Jeongneung-dong,정릉동
+11290134,Gireum-dong,길음동
+11290135,Jongam-dong,종암동
+11290136,Hawolgok-dong,하월곡동
+11290137,Sangwolgok-dong,상월곡동
+11290138,Jangwi-dong,장위동
+11290139,Seokgwan-dong,석관동
+11305101,Mia-dong,미아동
+11305102,Beon-dong,번동
+11305103,Suyu-dong,수유동
+11305104,Ui-dong,우이동
+11320105,Ssangmun-dong,쌍문동
+11320106,Banghak-dong,방학동
+11320107,Chang-dong,창동
+11320108,Dobong-dong,도봉동
+11350102,Wolgye-dong,월계동
+11350103,Gongneung-dong,공릉동
+11350104,Hagye-dong,하계동
+11350105,Sanggye-dong,상계동
+11350106,Junggye-dong,중계동
+11380101,Susaek-dong,수색동
+11380102,Nokbeon-dong,녹번동
+11380103,Bulgwang-dong,불광동
+11380104,Galhyeon-dong,갈현동
+11380105,Gusan-dong,구산동
+11380106,Daejo-dong,대조동
+11380107,Eungam-dong,응암동
+11380108,Yeokchon-dong,역촌동
+11380109,Sinsa-dong,신사동
+11380110,Jeungsan-dong,증산동
+11380114,Jingwan-dong,진관동
+11410101,Chungjeongno 2(i)-ga,충정로2가
+11410102,Chungjeongno 3(sam)-ga,충정로3가
+11410103,Hap-dong,합동
+11410104,Migeun-dong,미근동
+11410105,Naengcheon-dong,냉천동
+11410106,Cheonyeon-dong,천연동
+11410107,Okcheon-dong,옥천동
+11410108,Yeongcheon-dong,영천동
+11410109,Hyeonjeo-dong,현저동
+11410110,Bugahyeon-dong,북아현동
+11410111,Hongje-dong,홍제동
+11410112,Daehyeon-dong,대현동
+11410113,Daesin-dong,대신동
+11410114,Sinchon-dong,신촌동
+11410115,Bongwon-dong,봉원동
+11410116,Changcheon-dong,창천동
+11410117,Yeonhui-dong,연희동
+11410118,Hongeun-dong,홍은동
+11410119,Bukgajwa-dong,북가좌동
+11410120,Namgajwa-dong,남가좌동
+11440101,Ahyeon-dong,아현동
+11440102,Gongdeok-dong,공덕동
+11440103,Singongdeok-dong,신공덕동
+11440104,Dohwa-dong,도화동
+11440105,Yonggang-dong,용강동
+11440106,Tojeong-dong,토정동
+11440107,Mapo-dong,마포동
+11440108,Daeheung-dong,대흥동
+11440109,Yeomni-dong,염리동
+11440110,Nogosan-dong,노고산동
+11440111,Sinsu-dong,신수동
+11440112,Hyeonseok-dong,현석동
+11440113,Gusu-dong,구수동
+11440114,Changjeon-dong,창전동
+11440115,Sangsu-dong,상수동
+11440116,Hajung-dong,하중동
+11440117,Sinjeong-dong,신정동
+11440118,Dangin-dong,당인동
+11440120,Seogyo-dong,서교동
+11440121,Donggyo-dong,동교동
+11440122,Hapjeong-dong,합정동
+11440123,Mangwon-dong,망원동
+11440124,Yeonnam-dong,연남동
+11440125,Seongsan-dong,성산동
+11440126,Jung-dong,중동
+11440127,Sangam-dong,상암동
+11470101,Sinjeong-dong,신정동
+11470102,Mok-dong,목동
+11470103,Sinwol-dong,신월동
+11500101,Yeomchang-dong,염창동
+11500102,Deungchon-dong,등촌동
+11500103,Hwagok-dong,화곡동
+11500104,Gayang-dong,가양동
+11500105,Magok-dong,마곡동
+11500106,Naebalsan-dong,내발산동
+11500107,Oebalsan-dong,외발산동
+11500108,Gonghang-dong,공항동
+11500109,Banghwa-dong,방화동
+11500110,Gaehwa-dong,개화동
+11500111,Gwahae-dong,과해동
+11500112,Ogok-dong,오곡동
+11500113,Osoe-dong,오쇠동
+11530101,Sindorim-dong,신도림동
+11530102,Guro-dong,구로동
+11530103,Garibong-dong,가리봉동
+11530106,Gocheok-dong,고척동
+11530107,Gaebong-dong,개봉동
+11530108,Oryu-dong,오류동
+11530109,Gung-dong,궁동
+11530110,Onsu-dong,온수동
+11530111,Cheonwang-dong,천왕동
+11530112,Hang-dong,항동
+11545101,Gasan-dong,가산동
+11545102,Doksan-dong,독산동
+11545103,Siheung-dong,시흥동
+11560101,Yeongdeungpo-dong,영등포동
+11560102,Yeongdeungpo-dong 1(il)-ga,영등포동1가
+11560103,Yeongdeungpo-dong 2(i)-ga,영등포동2가
+11560104,Yeongdeungpo-dong 3(sam)-ga,영등포동3가
+11560105,Yeongdeungpo-dong 4(sa)-ga,영등포동4가
+11560106,Yeongdeungpo-dong 5(o)-ga,영등포동5가
+11560107,Yeongdeungpo-dong 6(yuk)-ga,영등포동6가
+11560108,Yeongdeungpo-dong 7(chil)-ga,영등포동7가
+11560109,Yeongdeungpo-dong 8(pal)-ga,영등포동8가
+11560110,Yeouido-dong,여의도동
+11560111,Dangsan-dong 1(il)-ga,당산동1가
+11560112,Dangsan-dong 2(i)-ga,당산동2가
+11560113,Dangsan-dong 3(sam)-ga,당산동3가
+11560114,Dangsan-dong 4(sa)-ga,당산동4가
+11560115,Dangsan-dong 5(o)-ga,당산동5가
+11560116,Dangsan-dong 6(yuk)-ga,당산동6가
+11560117,Dangsan-dong,당산동
+11560118,Dorim-dong,도림동
+11560119,Mullae-dong 1(il)-ga,문래동1가
+11560120,Mullae-dong 2(i)-ga,문래동2가
+11560121,Mullae-dong 3(sam)-ga,문래동3가
+11560122,Mullae-dong 4(sa)-ga,문래동4가
+11560123,Mullae-dong 5(o)-ga,문래동5가
+11560124,Mullae-dong 6(yuk)-ga,문래동6가
+11560125,Yangpyeong-dong 1(il)-ga,양평동1가
+11560126,Yangpyeong-dong 2(i)-ga,양평동2가
+11560127,Yangpyeong-dong 3(sam)-ga,양평동3가
+11560128,Yangpyeong-dong 4(sa)-ga,양평동4가
+11560129,Yangpyeong-dong 5(o)-ga,양평동5가
+11560130,Yangpyeong-dong 6(yuk)-ga,양평동6가
+11560131,Yanghwa-dong,양화동
+11560132,Singil-dong,신길동
+11560133,Daerim-dong,대림동
+11560134,Yangpyeong-dong,양평동
+11590101,Noryangjin-dong,노량진동
+11590102,Sangdo-dong,상도동
+11590103,Sangdo 1(il)-dong,상도1동
+11590104,Bon-dong,본동
+11590105,Heukseok-dong,흑석동
+11590106,Dongjak-dong,동작동
+11590107,Sadang-dong,사당동
+11590108,Daebang-dong,대방동
+11590109,Sindaebang-dong,신대방동
+11620101,Bongcheon-dong,봉천동
+11620102,Sillim-dong,신림동
+11620103,Namhyeon-dong,남현동
+11650101,Bangbae-dong,방배동
+11650102,Yangjae-dong,양재동
+11650103,Umyeon-dong,우면동
+11650104,Wonji-dong,원지동
+11650106,Jamwon-dong,잠원동
+11650107,Banpo-dong,반포동
+11650108,Seocho-dong,서초동
+11650109,Naegok-dong,내곡동
+11650110,Yeomgok-dong,염곡동
+11650111,Sinwon-dong,신원동
+11680101,Yeoksam-dong,역삼동
+11680103,Gaepo-dong,개포동
+11680104,Cheongdam-dong,청담동
+11680105,Samseong-dong,삼성동
+11680106,Daechi-dong,대치동
+11680107,Sinsa-dong,신사동
+11680108,Nonhyeon-dong,논현동
+11680110,Apgujeong-dong,압구정동
+11680111,Segok-dong,세곡동
+11680112,Jagok-dong,자곡동
+11680113,Yulhyeon-dong,율현동
+11680114,Irwon-dong,일원동
+11680115,Suseo-dong,수서동
+11680118,Dogok-dong,도곡동
+11710101,Jamsil-dong,잠실동
+11710102,Sincheon-dong,신천동
+11710103,Pungnap-dong,풍납동
+11710104,Songpa-dong,송파동
+11710105,Seokchon-dong,석촌동
+11710106,Samjeon-dong,삼전동
+11710107,Garak-dong,가락동
+11710108,Munjeong-dong,문정동
+11710109,Jangji-dong,장지동
+11710111,Bangi-dong,방이동
+11710112,Ogeum-dong,오금동
+11710113,Geoyeo-dong,거여동
+11710114,Macheon-dong,마천동
+11740101,Myeongil-dong,명일동
+11740102,Godeok-dong,고덕동
+11740103,Sangil-dong,상일동
+11740105,Gil-dong,길동
+11740106,Dunchon-dong,둔촌동
+11740107,Amsa-dong,암사동
+11740108,Seongnae-dong,성내동
+11740109,Cheonho-dong,천호동
+11740110,Gangil-dong,강일동
